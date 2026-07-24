@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pedro Santos from Brazil<br><br>- 🔭 I’m working as Field Services Support Assistant<br>- 📚 I'm currently learning about Data Science<br>- 💻 My project is a web application that predicts product demand for small businesses. It helps store owners make better decisions about stock and sales, using simple AI models and a clean, easy-to-use interface.<br>- ⚡ In my free time I like to play video games and create more features to my project</p>
+<p align="left">I'm Pedro Santos from Brazil<br><br>- 🔭 I’m working as Field Services Support Analyst<br>- 📚 I'm currently learning about Data Science<br>- 💻 My project is a web application that predicts product demand for small businesses. It helps store owners make better decisions about stock and sales, using simple AI models and a clean, easy-to-use interface.<br>- ⚡ In my free time I like to play video games and create more features to my project</p>
 
 ###
 
